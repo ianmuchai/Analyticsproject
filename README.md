@@ -21,7 +21,6 @@ The data is presented to showcase the continent-wise distribution of COVID-19 de
 Analysis of Vaccination Impact on COVID-19 Deaths
 The project incorporates a vaccinated table and combines it with the sorted data to analyze the impact of vaccinations on COVID-19 deaths. This analysis provides insights into the effectiveness of vaccinations in reducing mortality rates.
 
-Feel free to modify and expand upon this README template to include any additional information or sections that you think are relevant to your project. Good luck with your COVID-19 data analytics!
 
 
 
